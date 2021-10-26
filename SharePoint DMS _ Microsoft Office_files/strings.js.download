@@ -1,0 +1,12 @@
+
+var landingPageStrings = {
+
+	'countdown.days': 'Days',
+	'countdown.hours': 'Hours',
+	'countdown.minutes': 'Minutes',
+	'countdown.seconds': 'Seconds',
+
+    'datetime.openPicker': 'Select date with date picker',
+
+	end: null
+};
